@@ -1,0 +1,5 @@
+username = "sad_yee-haw"
+password = "archiebaby137$"
+client_id = "YAAJpFSGmxPEO_niuCeopQ"
+client_secret = "9Vux5WXUxwCdPSsL5hYXgv1juS9pdg"
+user_agent = "sad_yee-haw's dog comment responder v0.1"
